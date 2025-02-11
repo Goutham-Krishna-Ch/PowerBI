@@ -1,3 +1,7 @@
+To use these Dashboards,
+Open the .pbix files in Power BI Desktop.
+Explore the dashboards and modify them as needed.
+
 This repository contains a collection of Power BI projects with interactive dashboards that visualize key insights from various datasets. Each project includes the dashboard, dataset (CSV), and Power BI files (.pbix) used for creating the reports.
 
 Projects Overview:
