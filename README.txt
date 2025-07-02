@@ -55,6 +55,13 @@ Files Included:
 amazon_products.csv (Dataset)
 amazon_dashboard.pbix (Power BI File)
 
+5. Costco Sales Dashboard: Price, Sales in cities, by gender, by payment type.
+Description:
+This Power BI project visualizes product pricing, customer reviews, Sales Data and ratings in Costco/Priceco. The dashboard presents different graphs and visualizations to uncover insights into customer behavior and product and Sales performance.
+Files Included:
+PriceCo_Sales.csv (Dataset)
+Price_Co_dashboard.pbix (Power BI File)
+
 To use these Dashboards,
 Open the .pbix files in Power BI Desktop.
 Explore the dashboards and modify them as needed.
